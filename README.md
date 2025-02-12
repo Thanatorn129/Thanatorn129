@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning<br>🌱 I’m currently learning Machine Learning with Apache Spark<br>💬 Ask me about Data Tools
+👦🏻 I graduated with a degree in Computer Engineering from Mahidol University<br> 🔭 I’m currently working on Machine Learning<br>🌱 I’m currently learning Machine Learning with Apache Spark<br>💬 Ask me about Data Tools<br> 📊 Data Visualization Tools: Excel, Power BI, Seaborn, Matplotlib
 
 
 ## 🌐 Socials:
